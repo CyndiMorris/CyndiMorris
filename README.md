@@ -9,7 +9,7 @@ Python / SQL / Excel / Power BI / Tableau
 
 ## Examples of Work  
 [<img src="https://github.com/CyndiMorris/assets/blob/main/weratedogspic.png" alt="WeRateDogs Analytics Project" style="width:250px">](https://github.com/TrowWay/AnalyticsPortfolio/blob/main/WeRateDogs.ipynb) | 
-[<img src="https://github.com/CyndiMorris/assets/blob/main/Motivate_banner_New.png" alt="Bike_Rental_Project" style="width:375px">](https://github.com/CyndiMorris/assets/blob/main/Bike_Share_Project.ipynb)
+[<img src="https://github.com/CyndiMorris/assets/blob/main/Motivate_banner_New.png" alt="Bike_Rental_Project" style="width:375px">](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/MotivateBikeShare/README_BikeShare.md)
 
 
 
