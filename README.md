@@ -14,7 +14,7 @@ Python / SQL / Excel / Power BI / Tableau
 [<img src="https://github.com/CyndiMorris/assets/blob/main/Motivate_banner_New.png" alt="Bike_Rental_Project" style="width:375px">](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/MotivateBikeShare/README_BikeShare.md)
 
 
-- 🔭 I’m currently working on setting up my GitHub Portfolio. 💻
+- 🔭 I’m currently working on setting up my GitHub Portfolio. 💻 (Please ask! Currently private due to school content)
 - 🌱 I’m currently studying for my AWS Cloud Practitioner Certification.
 - 🤔 I’m looking for project and certification suggestions. I love learning!!
 - 💬 Ask me about my pupper, Stu. 🐾
