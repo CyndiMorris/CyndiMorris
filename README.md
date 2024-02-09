@@ -2,8 +2,7 @@
 [LinkedIn]: https://www.linkedin.com/in/cyndimorris/
 [![LinkedIn](https://github.com/CyndiMorris/assets/blob/main/ProfileBanner.png)][LinkedIn]  
 # Cyndi Morris  
-I'm a Data Analyst. I really enjoy learning languages like Python and SQL to make analyzing data easier. I love to explore data to see what it has to say then create visualizations in Excel, PowerBI and Tableau to bring the stories to life.
-Uncovering the stories within data and transforming them into clear, easy-to-understand visualizations excites me. My true passion lies in using these visualizations to drive positive change and foster growth. Whether it's identifying opportunities for improvement or implementing strategic initiatives, I'm driven by the potential of data to make a real difference.
+I'm a Data Analyst. I really enjoy learning languages like Python and SQL to make analyzing data easier. I love to explore data to see what it has to say. Uncovering the storie then create visualizations in Excel, PowerBI and Tableau to bring the stories to life is exciting! Honest, it is!! 🤓  My true passion lies in using these visualizations to drive positive change and foster growth. Whether it's identifying opportunities for improvement or implementing strategic initiatives, I'm driven by the potential of data to make a real difference.
 
 ## Skills and Experience  
 Python / SQL / Excel / Power BI / Tableau  
