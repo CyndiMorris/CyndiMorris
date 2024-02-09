@@ -17,8 +17,8 @@ Python / SQL / Excel / Power BI / Tableau
 - 🔭 I’m currently working on setting up my GitHub Portfolio. 💻
 - 🌱 I’m currently studying for my AWS Cloud Practitioner Certification.
 - 🤔 I’m looking for project and certification suggestions. I love learning!!
-- 💬 Ask me about My pet air plant collection. 
-- 📫 How to reach me: [@gmail.com}(cyn.morris.da@gmail.com)
+- 💬 Ask me about my pupper, Stu. 🐾
+- 📫 How to reach me: [@gmail.com](cyn.morris.da@gmail.com)
 - ⚡ Fun facts:
 - * I've worked in Law Enforcement.
   * I've survived 6 Permanent Change of Station (PCS) moves.
