@@ -15,7 +15,7 @@ Python / SQL / Excel / Power BI / Tableau
 
 
 - 👩‍🎓 I'm currently studying for my Bachelors of Data Analytics at WGU. Check out my [program!](https://www.wgu.edu/online-it-degrees/data-analytics-bachelors-program/program-guide.html)
-- 🔭 I’m currently working on setting up my GitHub Portfolio. 💻 (Please ask! Currently private due to school content)
+- 👷‍♀ I’m currently working on setting up my GitHub Portfolio. 💻 (Please ask! Currently private due to school content)
 - 🌱 I’m currently studying for my AWS Cloud Practitioner Certification.
 - 🤔 I’m looking for project and certification suggestions. I love learning!!
 - 💬 Ask me about my pupper, Stu. 🐾
