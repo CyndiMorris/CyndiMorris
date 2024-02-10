@@ -1,6 +1,6 @@
 
 [LinkedIn]: https://www.linkedin.com/in/cyndimorris/
-[![LinkedIn](https://github.com/CyndiMorris/assets/blob/main/DA_transblu_data_banner.png)][LinkedIn]  
+[![LinkedIn](https://github.com/CyndiMorris/assets/blob/main/DA_trans_data_banner.png)][LinkedIn]  
 
 # Cyndi Morris
 I love, LOVE data!! I enjoy wrangling and transforming it and discovering what it has to say. It's exciting, bringing the stories to life through visualizations in Excel, PowerBI and Tableau! Honest, it is!! 🤓  
