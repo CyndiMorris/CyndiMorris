@@ -1,6 +1,6 @@
 
 [LinkedIn]: https://www.linkedin.com/in/cyndimorris/
-[![LinkedIn](https://github.com/CyndiMorris/assets/blob/main/DA_trans_data_banne.png)][LinkedIn]  
+[![LinkedIn](https://github.com/CyndiMorris/assets/blob/main/DA_trans_data_banner.png)][LinkedIn]  
 
 <h1>CYNDI MORRIS <br> Analyst | Storyteller </h1> 
 I'm a Data Analyst! I love, LOVE data!! I enjoy wrangling and transforming it, uncovering what it has to say. Bringing the stories to life through visualizations in Excel, PowerBI and Tableau is exciting! Honest, it is!! 🤓  
