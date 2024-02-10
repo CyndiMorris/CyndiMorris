@@ -3,7 +3,7 @@
 [![LinkedIn](https://github.com/CyndiMorris/assets/blob/main/DA_transblu_data_banner.png)][LinkedIn]  
 
 # Cyndi Morris
-I love, LOVE data!! I enjoy wrangling and transforming it, uncovering what it has to say. Bringing the stories to life through visualizations in Excel, PowerBI and Tableau is exciting! Honest, it is!! 🤓  
+I love, LOVE data!! I enjoy wrangling and transforming it and discovering what it has to say. Bringing the stories to life through visualizations in Excel, PowerBI and Tableau is exciting! Honest, it is!! 🤓  
 
 My true passion lies in using data and visualizations to drive positive change and foster growth. Whether it's identifying opportunities for improvement or implementing strategic initiatives, I'm driven by the potential of data to make a real difference.
 
