@@ -1,7 +1,8 @@
 
 [LinkedIn]: https://www.linkedin.com/in/cyndimorris/
 [![LinkedIn](https://github.com/CyndiMorris/assets/blob/main/DABanner.png)][LinkedIn]  
-<h1>Cyndi Morris </h1>h1> <br> #### Data Analyst | Storyteller
+<h1>Cyndi Morris</h1> 
+#### Data Analyst | Storyteller
 I'm a Data Analyst! I love, LOVE data!! I enjoy wrangling and transforming it, uncovering what it has to say. Bringing the stories to life through visualizations in Excel, PowerBI and Tableau is exciting! Honest, it is!! 🤓  
 
 My true passion lies in using data and visualizations to drive positive change and foster growth. Whether it's identifying opportunities for improvement or implementing strategic initiatives, I'm driven by the potential of data to make a real difference.
