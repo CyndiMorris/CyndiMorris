@@ -23,7 +23,7 @@ Python / SQL / Excel / Power BI / Tableau
 - 💬 Ask me about my pupper, Stu. 🐾
 - 📫 How to reach me: cyn.morris.da@gmail.com
 - ⚡ Fun facts:
-- * I've worked in Law Enforcement.
+  * I've worked in Law Enforcement.
   * I've survived 6 Permanent Change of Station (PCS) moves.
   * I'm a Licensed Veterinary Technician.
 
