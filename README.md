@@ -15,7 +15,6 @@ Python / SQL / Excel / Power BI / Tableau
 [<img src="https://github.com/CyndiMorris/assets/blob/main/weratedogs_banner.png" alt="WeRateDogs Analytics Project" style="width:260px">](https://github.com/TrowWay/AnalyticsPortfolio/blob/main/WeRateDogs.ipynb) | 
 [<img src="https://github.com/CyndiMorris/assets/blob/main/motivate_banner_R.png" alt="Bike_Rental_Project" style="width:260px">](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/MotivateBikeShare/README_BikeShare.md)
 
-
 <br></br>
 - 👩‍🎓 I'm currently studying for my Bachelors of Data Analytics at WGU. Check out my [program!](https://www.wgu.edu/online-it-degrees/data-analytics-bachelors-program/program-guide.html)
 - 👷‍♀ I’m currently working on setting up my GitHub Portfolio. 💻 (Please ask! Currently private due to school content)
