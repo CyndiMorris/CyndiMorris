@@ -11,7 +11,7 @@ My true passion lies in using data and visualizations to drive positive change a
 Python / SQL / Excel / Power BI / Tableau  
 
 ## Examples of my Work  
-[<img src="https://github.com/CyndiMorris/assets/blob/main/finding_donors_banner.png" style="width:275px">]() | 
+[<img src="https://github.com/CyndiMorris/assets/blob/main/finding_donors_banner.png" style="width:260px">]() | 
 [<img src="https://github.com/CyndiMorris/assets/blob/main/weratedogs_banner.png" alt="WeRateDogs Analytics Project" style="width:275px">](https://github.com/TrowWay/AnalyticsPortfolio/blob/main/WeRateDogs.ipynb) | 
 [<img src="https://github.com/CyndiMorris/assets/blob/main/motivate_banner_R.png" alt="Bike_Rental_Project" style="width:275px">](https://github.com/CyndiMorris/AnalyticsProjects/blob/main/MotivateBikeShare/README_BikeShare.md)
 
