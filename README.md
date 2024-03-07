@@ -8,7 +8,7 @@ I love, LOVE data!! I enjoy wrangling and transforming it and discovering what i
 My true passion lies in using data and visualizations to drive positive change and foster growth. Whether it's identifying opportunities for improvement or implementing strategic initiatives, I'm driven by the potential of data to make a real difference.
 
 ## Skills and Experience  
-Python / SQL / R / Excel / Power BI / Tableau  
+Python / SQL / R / Excel / PowerBI / Tableau  
 
 ## Examples of my Work  
 [<img src="https://github.com/CyndiMorris/assets/blob/main/finding_donors_banner.png" style="width:260px">]() | 
