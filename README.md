@@ -24,7 +24,7 @@ Python / SQL / R / Excel / PowerBI / Tableau
 - 📫 How to reach me: cyn.morris.da@gmail.com
 - ⚡ Fun facts:
   * I've worked in Law Enforcement.
-  * I've survived 6 Permanent Change of Station (PCS) moves.
+  * I've survived 6 Permanent Change of Station (PCS) moves. [<img src='https://github.com/CyndiMorris/assets/blob/main/korean_flg.svg' alt='github' height='40'>]
   * I'm a Licensed Veterinary Technician.
 
 
