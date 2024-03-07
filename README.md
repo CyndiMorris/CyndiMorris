@@ -24,7 +24,7 @@ Python / SQL / R / Excel / PowerBI / Tableau
 - 📫 How to reach me: cyn.morris.da@gmail.com
 - ⚡ Fun facts:
   * I've worked in Law Enforcement.
-  * I survived 6 PCS moves. <img src='https://github.com/CyndiMorris/assets/blob/main/korean_flg.svg' alt='github' height='20'> Seoul, South Korea being my favorite location!! 
+  * I survived 6 PCS moves. <img src='https://github.com/CyndiMorris/assets/blob/main/korean_flg.svg' alt='github' height='20'> Seoul, South Korea being my favorite duty station!! 
   * I'm a Licensed Veterinary Technician.
 
 
