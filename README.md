@@ -13,6 +13,7 @@ Python / SQL / R / Excel / PowerBI / Tableau
 ## Examples of my Work  
 [<img src="https://github.com/CyndiMorris/assets/blob/main/finding_donors_banner.png" style="width:260px">](https://github.com/CyndiMorris/AnalyticsProjects/tree/main/FindingDonors) | 
 [<img src="https://github.com/CyndiMorris/assets/blob/main/weratedogs_banner.png" alt="WeRateDogs Analytics Project" style="width:260px">](https://github.com/CyndiMorris/AnalyticsProjects/tree/main/WeRateDogs) | 
+[<img src="https://github.com/CyndiMorris/assets/blob/main/motivate_banner_R.png" alt="Bike_Rental_Project" style="width:260px">](https://github.com/CyndiMorris/AnalyticsProjects/tree/main/MotivateBikeShare)<br></br>
 [<img src="https://github.com/CyndiMorris/assets/blob/main/motivate_banner_R.png" alt="Bike_Rental_Project" style="width:260px">](https://github.com/CyndiMorris/AnalyticsProjects/tree/main/MotivateBikeShare)
 
 <br></br>
