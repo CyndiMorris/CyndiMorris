@@ -16,7 +16,7 @@ Python / SQL / R / Excel / PowerBI / Tableau
 [<img src="https://github.com/CyndiMorris/assets/blob/main/motivate_banner_R.png" alt="Bike Rental Project" style="width:260px">](https://github.com/CyndiMorris/AnalyticsProjects/tree/main/MotivateBikeShare)<br></br>
 [<img src="https://github.com/CyndiMorris/assets/blob/main/SparkifyLC.png" alt="Sparkify" style="width:260px">](https://github.com/CyndiMorris/AnalyticsProjects/tree/main/Sparkify) | 
 [<img src="https://github.com/CyndiMorris/assets/blob/main/PSBanner.png" alt="Practical Statistics" style="width:260px">](https://github.com/CyndiMorris/AnalyticsProjects/tree/main/PracticalStatistics) | 
-[<img src="https://github.com/CyndiMorris/assets/blob/main/NSABanner.png" alt="No Show Appointments" style="width:260px">](https://github.com/CyndiMorris/AnalyticsProjects/tree/main/NoShowAppts)
+[<img src="https://github.com/CyndiMorris/assets/blob/main/NoShowBanner.png" alt="No Show Appointments" style="width:260px">](https://github.com/CyndiMorris/AnalyticsProjects/tree/main/NoShowAppts)
 
 <br></br>
 - 👩‍🎓 I'm currently studying for my Bachelors of Data Analytics at WGU. Check out my [program!](https://www.wgu.edu/online-it-degrees/data-analytics-bachelors-program/program-guide.html)
